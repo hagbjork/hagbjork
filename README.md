@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hagbjork
+- 👀 I’m interested in data science, learning new stuff, training and ice-hockey.
+- 🌱 I’m currently study data science at EC Utbildning in Stockholm
+- 📫 Reach me at Discord: Jonas#0239 Twitter: @jonashagbjork or Email: jonas@hagbjork.se 
