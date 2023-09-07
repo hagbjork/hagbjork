@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @hagbjork!
-- 👀 I’m interested in data science, data engineering, learning new stuff, training and ice-hockey.
-- 🌱 I’m currently doing a internship at Vattenfall AB as a Data Engineer during my study as data science at EC Utbildning in Stockholm.
-- 📫 Reach me at Discord: Jonas#0239 or Email: jonas@hagbjork.se 
+- 👀 I’m interested in data engineering, data analysis, BI, learning new stuff, training and ice-hockey.
+- 🌱 I’m currently working as a data engineer in Stockholm.
+- 📫 Reach me at: jonas@hagbjork.se 
+
+Stay frosty! ✌
